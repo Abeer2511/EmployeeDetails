@@ -1,4 +1,5 @@
-[
+{
+  "post": [
   {
     "id": 823818,
     "first_name": "Benjamin",
@@ -400,3 +401,4 @@
     "married": false
   }
 ]
+}
