@@ -1,13 +1,23 @@
 {
-   "posts":
+  "posts" : 
+  [
+
     {
-    "id": 823818,
-    "first_name": "Benjamin",
-    "last_name": "Ramirez",
-    "date": "3/23/2021, 5:56:56 PM",
-    "photo": "http://srcimg.com/100/150",
-    "married": true
-      
+      "id": 823818,
+       "first_name": "Benjamin",
+       "last_name": "Ramirez",
+       "date": "3/23/2021, 5:56:56 PM",
+       "photo": "http://srcimg.com/100/150",
+       "married": true
+    },
+    
+    {
+      "id": 464890,
+      "first_name": "Shirley",
+      "last_name": "Rogers",
+      "date": "3/23/2021, 5:56:56 PM",
+      "photo": "http://srcimg.com/100/150",
+      "married": false
     }
-  
+  ]  
 }
