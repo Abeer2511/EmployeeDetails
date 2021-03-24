@@ -1,44 +1,9 @@
 {
   "posts": [
-  {
-    "id": 823818,
-    "first_name": "Benjamin",
-    "last_name": "Ramirez",
-    "date": "3/23/2021, 5:56:56 PM",
-    "photo": "http://srcimg.com/100/150",
-    "married": true
-  },
-  {
-    "id": 464890,
-    "first_name": "Shirley",
-    "last_name": "Rogers",
-    "date": "3/23/2021, 5:56:56 PM",
-    "photo": "http://srcimg.com/100/150",
-    "married": false
-  },
-  {
-    "id": 790918,
-    "first_name": "Mike",
-    "last_name": "Morgan",
-    "date": "3/23/2021, 5:56:56 PM",
-    "photo": "http://srcimg.com/100/150",
-    "married": true
-  },
-  {
-    "id": 434735,
-    "first_name": "Steven",
-    "last_name": "Robinson",
-    "date": "3/23/2021, 5:56:56 PM",
-    "photo": "http://srcimg.com/100/150",
-    "married": true
-  },
-  {
-    "id": 472634,
-    "first_name": "Anne",
-    "last_name": "Hernandez",
-    "date": "3/23/2021, 5:56:56 PM",
-    "photo": "http://srcimg.com/100/150",
-    "married": true
-  }
-]
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
